@@ -1,5 +1,4 @@
 <? php
-date_default_timezone_set ( 'Asia / Jakarta' );
 termasuk  "function.php" ;
  warna gema ( "hijau" , "[] ASSALAMUALAIKUM [] \ n" );
  warna gema ( "kuning" , "[] OLEH: RIANISHA [] \ n" );
